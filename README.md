@@ -1,8 +1,8 @@
-# 🔥 Game Tebak Angka (Edisi Anti-Mainstream)
+# 🔥 Game Tebak Angka Sederhana
 
 Sebuah game tebak angka sederhana yang dibuat dengan Python, namun dengan fitur-fitur modern untuk pengalaman bermain yang lebih seru. Proyek ini dibuat untuk menunjukkan penguasaan logika fundamental Python.
 
-## ✨ Fitur Unggulan
+## ✨ Fitur Pada Program
 
 - **Tiga Tingkat Kesulitan**: Pilih antara Mudah, Normal, dan Sulit yang memengaruhi rentang angka dan jumlah nyawa.
 - **Petunjuk Cerdas**: Dapatkan petunjuk "Makin Panas 🔥" atau "Makin Dingin ❄️" berdasarkan kedekatan tebakanmu.
