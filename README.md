@@ -19,7 +19,7 @@ Sebuah game tebak angka sederhana yang dibuat dengan Python, namun dengan fitur-
 1. Pastikan kamu sudah menginstall Python 3.
 2. Clone repository ini:
    ```bash
-   git clone [https://github.com/rikoputra22/game-tebak-angka.git](https://github.com/rikoputra22/game-tebak-angka.git)
+   git clone https://github.com/rikoputra22/game-tebak-angka.git
    ```
 3. Masuk ke direktori proyek:
    ```bash
